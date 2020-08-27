@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aj21vU3uP/2H0bp8NHQ+NZi+tQ+mcMrL7alyUgj+Pt5hWxTFc0JKWRWQUHVH85cQmV9Z1WiMllS7/Lpc/MH0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects various\\Parser\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bartimaeus\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
+    "C:\\Users\\Bartimaeus\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.1\\microsoft.netcore.platforms.3.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Bartimaeus\\.nuget\\packages\\system.text.encoding.codepages\\4.7.1\\system.text.encoding.codepages.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
